@@ -6,3 +6,12 @@ main {
     padding: 2rem;
     background-color: aquamarine;
 }
+
+main ul {
+    list-style: mone;
+    padding: 0%;
+}
+
+main ul li {
+    padding: 0.2rem
+}
